@@ -1,15 +1,11 @@
 [![CI](https://github.com/nogibjj/Jiechen_Li_Individual_3/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li_Individual_3/actions/workflows/ci.yml)
 
-## Jiechen_Li_Individual_3
+## Jiechen_Li_Mini_11_Pipeline
 
 ### Purpose
 
-* A well-documented Databricks notebook that performs ETL (Extract, Transform, Load) operations, checked into the repository.
-* Usage of Delta Lake for data storage.
-* Usage of Spark SQL for data transformations.
-* Proper error handling and data validation.
-* Visualization of the transformed data.
-* An automated trigger to initiate the pipeline.
+* Create a data pipeline using Databricks.
+* Include at least one data source and one data sink.
 
 ### Dataset
 
@@ -92,24 +88,6 @@ Please check ``ETL_pipeline_within_repo.py`` for detailed output.
 2. **Transformed data in Delta Lake to Interact with Spark SQL**
 <img decoding="async" src="delta_lake_with_Spark.png" width="85%"><br/>
 
-3. **Data Visualization**
-<img decoding="async" src="comparison_rates.png" width="85%"><br/>
-
-4. **Commit from Databricks to GitHub Repo**
-<img decoding="async" src="commit_from_Azure_to_GitHub.png" width="85%"><br/>
-
-5. **Automated Trigger**
-<img decoding="async" src="automated_trigger.png" width="85%"><br/>
-
-### Recommendation for Management Team
-
-The goal of this analysis is to compare the attendance rates of the "All Students" group in the 2021-2022 academic year against the rates in the 2020-2021 academic year for each district. We want to find districts where the attendance rate increased, remained stable (with a variation of less than 1%), or decreased. The results show that the attendance rate in 2020-2021 is better than 2021-2022 in general. We may consider the Covid in 2021-2022 into consideration when analyze this result.
-
-### Demo Video
-
-1. [Automated Trigger Walkthrough Video](https://youtu.be/NVmPZFgrJ2Q)
-2. Please click <a href="https://youtu.be/cYU2Ll8q330" target="_blank">here</a> to watch the explanatory Demo Video of this repo.
-
 ### Reference
 
-Please click <a href="https://github.com/nogibjj/Jiechen_Li_Mini_10_PySpark.git" target="_blank">here</a> to see the template of this repo.
+Please click <a href="https://github.com/nogibjj/Jiechen_Li_Individual_3.git" target="_blank">here</a> to see the template of this repo.
