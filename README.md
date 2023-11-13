@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/Jiechen_Li_Individual_3/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li_Individual_3/actions/workflows/ci.yml)
+[![CI](https://github.com/nogibjj/Jiechen_Li-Mini_11_Pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li-Mini_11_Pipeline/actions/workflows/ci.yml)
 
 ## Jiechen_Li_Mini_11_Pipeline
 
